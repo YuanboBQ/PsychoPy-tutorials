@@ -1,0 +1,5 @@
+TrialNumber,color,word,ran,order,RT,accuracy
+1,green,G,1.0,0.0,533.0,-1.0
+2,green,R,1.0,1.0,617.0,-1.0
+3,red,R,1.0,2.0,500.0,1.0
+4,red,G,1.0,3.0,500.0,1.0

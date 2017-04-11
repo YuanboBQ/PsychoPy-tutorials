@@ -1,0 +1,1671 @@
+15.4102 	WARNING 	User requested fullscreen with size [1680 1050], but screen is actually [1920, 1080]. Using actual size
+16.3083 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x10f3f3450>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.3084 	EXP 	window1: recordFrameIntervals = False
+16.4745 	EXP 	window1: recordFrameIntervals = True
+16.6577 	EXP 	window1: recordFrameIntervals = False
+16.7889 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+16.8464 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+16.8590 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+16.8632 	EXP 	Created text_4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_4', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'A=Positive', units=u'norm', win=Window(...), wrapWidth=1)
+16.8668 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'L=Negative', units=u'norm', win=Window(...), wrapWidth=1)
+16.8702 	EXP 	Created Positive_label = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Positive_label', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'A=Positive', units=u'norm', win=Window(...), wrapWidth=1)
+16.8734 	EXP 	Created Negative_label = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Negative_label', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'L=Negative', units=u'norm', win=Window(...), wrapWidth=1)
+16.8755 	EXP 	Created image_3 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+16.8798 	EXP 	Created text_27 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_27', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.8831 	EXP 	Created text_29 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_29', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'A=Positive', units=u'norm', win=Window(...), wrapWidth=1)
+16.8930 	EXP 	Created text_30 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_30', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'L=Negative', units=u'norm', win=Window(...), wrapWidth=1)
+16.9060 	EXP 	Created text_6 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_6', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+16.9099 	EXP 	Created text_7 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_7', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9138 	EXP 	Created text_8 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_8', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9178 	EXP 	Created text_9 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_9', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9217 	EXP 	Created text_10 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_10', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9235 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.3,  0.3]), texRes=128, units=u'norm', win=Window(...))
+16.9277 	EXP 	Created text_28 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_28', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9315 	EXP 	Created text_31 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_31', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9351 	EXP 	Created text_32 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_32', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9462 	EXP 	Created text_11 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_11', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+16.9499 	EXP 	Created text_12 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_12', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9532 	EXP 	Created text_13 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_13', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9605 	EXP 	Created text_14 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_14', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9645 	EXP 	Created text_15 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_15', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9663 	EXP 	Created image_2 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+16.9704 	EXP 	Created text_33 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_33', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9768 	EXP 	Created text_34 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_34', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9817 	EXP 	Created text_35 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_35', opacity=1.0, ori=0, pos=array([ 0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+16.9988 	EXP 	Created text_26 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, name='text_26', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.0131 	EXP 	text_2: autoDraw = True
+27.7550 	DATA 	Keypress: space
+27.7638 	EXP 	text_2: autoDraw = False
+27.7638 	EXP 	text_3: autoDraw = True
+35.3131 	DATA 	Keypress: space
+35.3239 	EXP 	text_3: autoDraw = False
+35.3239 	EXP 	text: autoDraw = True
+35.3239 	EXP 	text_4: autoDraw = True
+35.3239 	EXP 	text_5: autoDraw = True
+41.5135 	DATA 	Keypress: space
+41.5266 	EXP 	Imported pos_neg_train.xlsx as conditions, 10 conditions, 2 params
+41.5275 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+41.6142 	EXP 	New trial (rep=0, index=0): {u'StimuliImages': u'Evil.jpg', u'CorrAns1': u'l'}
+41.6722 	EXP 	text: autoDraw = False
+41.6722 	EXP 	text_4: autoDraw = False
+41.6722 	EXP 	text_5: autoDraw = False
+41.6722 	EXP 	image_3: image = u'stimuli/Evil.jpg'
+41.6722 	EXP 	Positive_label: autoDraw = True
+41.6722 	EXP 	Negative_label: autoDraw = True
+41.6722 	EXP 	image_3: autoDraw = True
+43.6963 	DATA 	Keypress: a
+43.7129 	EXP 	Positive_label: autoDraw = False
+43.7129 	EXP 	Negative_label: autoDraw = False
+43.7129 	EXP 	image_3: autoDraw = False
+43.7129 	EXP 	text_27: text = 'oops'
+43.7129 	EXP 	text_27: autoDraw = True
+43.7129 	EXP 	text_29: autoDraw = True
+43.7129 	EXP 	text_30: autoDraw = True
+44.6907 	EXP 	New trial (rep=0, index=1): {u'StimuliImages': u'Good.jpg', u'CorrAns1': u'a'}
+44.7061 	EXP 	text_27: autoDraw = False
+44.7061 	EXP 	text_29: autoDraw = False
+44.7061 	EXP 	text_30: autoDraw = False
+44.7061 	EXP 	text_27: autoDraw = False
+44.7061 	EXP 	text_29: autoDraw = False
+44.7061 	EXP 	text_30: autoDraw = False
+44.7061 	EXP 	image_3: image = u'stimuli/Good.jpg'
+44.7061 	EXP 	Positive_label: autoDraw = True
+44.7061 	EXP 	Negative_label: autoDraw = True
+44.7061 	EXP 	image_3: autoDraw = True
+47.4597 	DATA 	Keypress: a
+47.4720 	EXP 	Positive_label: autoDraw = False
+47.4720 	EXP 	Negative_label: autoDraw = False
+47.4720 	EXP 	image_3: autoDraw = False
+47.4720 	EXP 	text_27: text = ''
+47.4720 	EXP 	text_27: autoDraw = True
+47.4720 	EXP 	text_29: autoDraw = True
+47.4720 	EXP 	text_30: autoDraw = True
+48.4572 	EXP 	New trial (rep=0, index=2): {u'StimuliImages': u'Love.jpg', u'CorrAns1': u'a'}
+48.4727 	EXP 	text_27: autoDraw = False
+48.4727 	EXP 	text_29: autoDraw = False
+48.4727 	EXP 	text_30: autoDraw = False
+48.4727 	EXP 	text_27: autoDraw = False
+48.4727 	EXP 	text_29: autoDraw = False
+48.4727 	EXP 	text_30: autoDraw = False
+48.4727 	EXP 	image_3: image = u'stimuli/Love.jpg'
+48.4727 	EXP 	Positive_label: autoDraw = True
+48.4727 	EXP 	Negative_label: autoDraw = True
+48.4727 	EXP 	image_3: autoDraw = True
+49.3447 	DATA 	Keypress: a
+49.3559 	EXP 	Positive_label: autoDraw = False
+49.3559 	EXP 	Negative_label: autoDraw = False
+49.3559 	EXP 	image_3: autoDraw = False
+49.3559 	EXP 	text_27: text = ''
+49.3559 	EXP 	text_27: autoDraw = True
+49.3559 	EXP 	text_29: autoDraw = True
+49.3559 	EXP 	text_30: autoDraw = True
+50.3409 	EXP 	New trial (rep=0, index=3): {u'StimuliImages': u'Bad.jpg', u'CorrAns1': u'l'}
+50.3567 	EXP 	text_27: autoDraw = False
+50.3567 	EXP 	text_29: autoDraw = False
+50.3567 	EXP 	text_30: autoDraw = False
+50.3567 	EXP 	text_27: autoDraw = False
+50.3567 	EXP 	text_29: autoDraw = False
+50.3567 	EXP 	text_30: autoDraw = False
+50.3567 	EXP 	image_3: image = u'stimuli/Bad.jpg'
+50.3567 	EXP 	Positive_label: autoDraw = True
+50.3567 	EXP 	Negative_label: autoDraw = True
+50.3567 	EXP 	image_3: autoDraw = True
+51.1614 	DATA 	Keypress: l
+51.1725 	EXP 	Positive_label: autoDraw = False
+51.1725 	EXP 	Negative_label: autoDraw = False
+51.1725 	EXP 	image_3: autoDraw = False
+51.1725 	EXP 	text_27: text = ''
+51.1725 	EXP 	text_27: autoDraw = True
+51.1725 	EXP 	text_29: autoDraw = True
+51.1725 	EXP 	text_30: autoDraw = True
+52.1558 	EXP 	New trial (rep=0, index=4): {u'StimuliImages': u'Agony.jpg', u'CorrAns1': u'l'}
+52.1723 	EXP 	text_27: autoDraw = False
+52.1723 	EXP 	text_29: autoDraw = False
+52.1723 	EXP 	text_30: autoDraw = False
+52.1723 	EXP 	text_27: autoDraw = False
+52.1723 	EXP 	text_29: autoDraw = False
+52.1723 	EXP 	text_30: autoDraw = False
+52.1723 	EXP 	image_3: image = u'stimuli/Agony.jpg'
+52.1723 	EXP 	Positive_label: autoDraw = True
+52.1723 	EXP 	Negative_label: autoDraw = True
+52.1723 	EXP 	image_3: autoDraw = True
+53.6433 	DATA 	Keypress: l
+53.6556 	EXP 	Positive_label: autoDraw = False
+53.6556 	EXP 	Negative_label: autoDraw = False
+53.6556 	EXP 	image_3: autoDraw = False
+53.6556 	EXP 	text_27: text = ''
+53.6556 	EXP 	text_27: autoDraw = True
+53.6556 	EXP 	text_29: autoDraw = True
+53.6556 	EXP 	text_30: autoDraw = True
+54.6405 	EXP 	New trial (rep=0, index=5): {u'StimuliImages': u'Happy.jpg', u'CorrAns1': u'a'}
+54.6558 	EXP 	text_27: autoDraw = False
+54.6558 	EXP 	text_29: autoDraw = False
+54.6558 	EXP 	text_30: autoDraw = False
+54.6558 	EXP 	text_27: autoDraw = False
+54.6558 	EXP 	text_29: autoDraw = False
+54.6558 	EXP 	text_30: autoDraw = False
+54.6558 	EXP 	image_3: image = u'stimuli/Happy.jpg'
+54.6558 	EXP 	Positive_label: autoDraw = True
+54.6558 	EXP 	Negative_label: autoDraw = True
+54.6558 	EXP 	image_3: autoDraw = True
+55.3601 	DATA 	Keypress: a
+55.3727 	EXP 	Positive_label: autoDraw = False
+55.3727 	EXP 	Negative_label: autoDraw = False
+55.3727 	EXP 	image_3: autoDraw = False
+55.3727 	EXP 	text_27: text = ''
+55.3727 	EXP 	text_27: autoDraw = True
+55.3727 	EXP 	text_29: autoDraw = True
+55.3727 	EXP 	text_30: autoDraw = True
+56.3560 	EXP 	New trial (rep=0, index=6): {u'StimuliImages': u'Hurt.jpg', u'CorrAns1': u'l'}
+56.3721 	EXP 	text_27: autoDraw = False
+56.3721 	EXP 	text_29: autoDraw = False
+56.3721 	EXP 	text_30: autoDraw = False
+56.3721 	EXP 	text_27: autoDraw = False
+56.3721 	EXP 	text_29: autoDraw = False
+56.3721 	EXP 	text_30: autoDraw = False
+56.3721 	EXP 	image_3: image = u'stimuli/Hurt.jpg'
+56.3721 	EXP 	Positive_label: autoDraw = True
+56.3721 	EXP 	Negative_label: autoDraw = True
+56.3721 	EXP 	image_3: autoDraw = True
+57.2786 	DATA 	Keypress: l
+57.2892 	EXP 	Positive_label: autoDraw = False
+57.2892 	EXP 	Negative_label: autoDraw = False
+57.2892 	EXP 	image_3: autoDraw = False
+57.2892 	EXP 	text_27: text = ''
+57.2892 	EXP 	text_27: autoDraw = True
+57.2892 	EXP 	text_29: autoDraw = True
+57.2892 	EXP 	text_30: autoDraw = True
+58.2734 	EXP 	New trial (rep=0, index=7): {u'StimuliImages': u'Joy.jpg', u'CorrAns1': u'a'}
+58.2888 	EXP 	text_27: autoDraw = False
+58.2888 	EXP 	text_29: autoDraw = False
+58.2888 	EXP 	text_30: autoDraw = False
+58.2888 	EXP 	text_27: autoDraw = False
+58.2888 	EXP 	text_29: autoDraw = False
+58.2888 	EXP 	text_30: autoDraw = False
+58.2888 	EXP 	image_3: image = u'stimuli/Joy.jpg'
+58.2888 	EXP 	Positive_label: autoDraw = True
+58.2888 	EXP 	Negative_label: autoDraw = True
+58.2888 	EXP 	image_3: autoDraw = True
+58.9603 	DATA 	Keypress: a
+58.9727 	EXP 	Positive_label: autoDraw = False
+58.9727 	EXP 	Negative_label: autoDraw = False
+58.9727 	EXP 	image_3: autoDraw = False
+58.9727 	EXP 	text_27: text = ''
+58.9727 	EXP 	text_27: autoDraw = True
+58.9727 	EXP 	text_29: autoDraw = True
+58.9727 	EXP 	text_30: autoDraw = True
+59.9569 	EXP 	New trial (rep=0, index=8): {u'StimuliImages': u'Pleasure.jpg', u'CorrAns1': u'a'}
+59.9724 	EXP 	text_27: autoDraw = False
+59.9724 	EXP 	text_29: autoDraw = False
+59.9724 	EXP 	text_30: autoDraw = False
+59.9724 	EXP 	text_27: autoDraw = False
+59.9724 	EXP 	text_29: autoDraw = False
+59.9724 	EXP 	text_30: autoDraw = False
+59.9724 	EXP 	image_3: image = u'stimuli/Pleasure.jpg'
+59.9724 	EXP 	Positive_label: autoDraw = True
+59.9724 	EXP 	Negative_label: autoDraw = True
+59.9724 	EXP 	image_3: autoDraw = True
+60.6099 	DATA 	Keypress: a
+60.6220 	EXP 	Positive_label: autoDraw = False
+60.6220 	EXP 	Negative_label: autoDraw = False
+60.6220 	EXP 	image_3: autoDraw = False
+60.6220 	EXP 	text_27: text = ''
+60.6220 	EXP 	text_27: autoDraw = True
+60.6220 	EXP 	text_29: autoDraw = True
+60.6220 	EXP 	text_30: autoDraw = True
+61.6067 	EXP 	New trial (rep=0, index=9): {u'StimuliImages': u'Nasty.jpg', u'CorrAns1': u'l'}
+61.6222 	EXP 	text_27: autoDraw = False
+61.6222 	EXP 	text_29: autoDraw = False
+61.6222 	EXP 	text_30: autoDraw = False
+61.6222 	EXP 	text_27: autoDraw = False
+61.6222 	EXP 	text_29: autoDraw = False
+61.6222 	EXP 	text_30: autoDraw = False
+61.6222 	EXP 	image_3: image = u'stimuli/Nasty.jpg'
+61.6222 	EXP 	Positive_label: autoDraw = True
+61.6222 	EXP 	Negative_label: autoDraw = True
+61.6222 	EXP 	image_3: autoDraw = True
+62.3617 	DATA 	Keypress: l
+62.3717 	EXP 	Positive_label: autoDraw = False
+62.3717 	EXP 	Negative_label: autoDraw = False
+62.3717 	EXP 	image_3: autoDraw = False
+62.3717 	EXP 	text_27: text = ''
+62.3717 	EXP 	text_27: autoDraw = True
+62.3717 	EXP 	text_29: autoDraw = True
+62.3717 	EXP 	text_30: autoDraw = True
+63.3600 	EXP 	Created sequence: sequential, trialTypes=1, nReps=2, seed=None
+63.3613 	EXP 	New trial (rep=0, index=0): None
+63.3888 	EXP 	text_27: autoDraw = False
+63.3888 	EXP 	text_29: autoDraw = False
+63.3888 	EXP 	text_30: autoDraw = False
+63.3888 	EXP 	text_27: autoDraw = False
+63.3888 	EXP 	text_29: autoDraw = False
+63.3888 	EXP 	text_30: autoDraw = False
+63.3888 	EXP 	text_7: text = 'A = \nWhite'
+63.3888 	EXP 	text_8: text = 'L = \nBlack'
+63.3888 	EXP 	text_6: autoDraw = True
+63.3888 	EXP 	text_7: autoDraw = True
+63.3888 	EXP 	text_8: autoDraw = True
+70.1269 	DATA 	Keypress: space
+70.1330 	EXP 	Imported cong_train.xlsx as conditions, 10 conditions, 2 params
+70.1334 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+70.1342 	EXP 	New trial (rep=0, index=0): {u'TrialImages': u'white_3.jpg', u'CorrAns': u'a'}
+70.1549 	EXP 	text_6: autoDraw = False
+70.1549 	EXP 	text_7: autoDraw = False
+70.1549 	EXP 	text_8: autoDraw = False
+70.1549 	EXP 	text_9: text = 'A = \nWhite'
+70.1549 	EXP 	text_10: text = 'L = \nBlack'
+70.1549 	EXP 	image: image = u'stimuli/white_3.jpg'
+70.1549 	EXP 	text_9: autoDraw = True
+70.1549 	EXP 	text_10: autoDraw = True
+70.1549 	EXP 	image: autoDraw = True
+72.2282 	DATA 	Keypress: a
+72.2469 	EXP 	text_9: autoDraw = False
+72.2469 	EXP 	text_10: autoDraw = False
+72.2469 	EXP 	image: autoDraw = False
+72.2469 	EXP 	text_28: text = ''
+72.2469 	EXP 	text_31: text = 'A = \nWhite'
+72.2469 	EXP 	text_32: text = 'L = \nBlack'
+72.2469 	EXP 	text_28: autoDraw = True
+72.2469 	EXP 	text_31: autoDraw = True
+72.2469 	EXP 	text_32: autoDraw = True
+73.2230 	EXP 	New trial (rep=0, index=1): {u'TrialImages': u'black_4.jpg', u'CorrAns': u'l'}
+73.2386 	EXP 	text_28: autoDraw = False
+73.2386 	EXP 	text_31: autoDraw = False
+73.2386 	EXP 	text_32: autoDraw = False
+73.2386 	EXP 	text_28: autoDraw = False
+73.2386 	EXP 	text_31: autoDraw = False
+73.2386 	EXP 	text_32: autoDraw = False
+73.2386 	EXP 	text_9: text = 'A = \nWhite'
+73.2386 	EXP 	text_10: text = 'L = \nBlack'
+73.2386 	EXP 	image: image = u'stimuli/black_4.jpg'
+73.2386 	EXP 	text_9: autoDraw = True
+73.2386 	EXP 	text_10: autoDraw = True
+73.2386 	EXP 	image: autoDraw = True
+74.1113 	DATA 	Keypress: l
+74.1212 	EXP 	text_9: autoDraw = False
+74.1212 	EXP 	text_10: autoDraw = False
+74.1212 	EXP 	image: autoDraw = False
+74.1212 	EXP 	text_28: text = ''
+74.1212 	EXP 	text_31: text = 'A = \nWhite'
+74.1212 	EXP 	text_32: text = 'L = \nBlack'
+74.1212 	EXP 	text_28: autoDraw = True
+74.1212 	EXP 	text_31: autoDraw = True
+74.1212 	EXP 	text_32: autoDraw = True
+75.1060 	EXP 	New trial (rep=0, index=2): {u'TrialImages': u'white_4.jpg', u'CorrAns': u'a'}
+75.1214 	EXP 	text_28: autoDraw = False
+75.1214 	EXP 	text_31: autoDraw = False
+75.1214 	EXP 	text_32: autoDraw = False
+75.1214 	EXP 	text_28: autoDraw = False
+75.1214 	EXP 	text_31: autoDraw = False
+75.1214 	EXP 	text_32: autoDraw = False
+75.1214 	EXP 	text_9: text = 'A = \nWhite'
+75.1214 	EXP 	text_10: text = 'L = \nBlack'
+75.1214 	EXP 	image: image = u'stimuli/white_4.jpg'
+75.1214 	EXP 	text_9: autoDraw = True
+75.1214 	EXP 	text_10: autoDraw = True
+75.1214 	EXP 	image: autoDraw = True
+77.9588 	DATA 	Keypress: a
+77.9710 	EXP 	text_9: autoDraw = False
+77.9710 	EXP 	text_10: autoDraw = False
+77.9710 	EXP 	image: autoDraw = False
+77.9710 	EXP 	text_28: text = ''
+77.9710 	EXP 	text_31: text = 'A = \nWhite'
+77.9710 	EXP 	text_32: text = 'L = \nBlack'
+77.9710 	EXP 	text_28: autoDraw = True
+77.9710 	EXP 	text_31: autoDraw = True
+77.9710 	EXP 	text_32: autoDraw = True
+78.9552 	EXP 	New trial (rep=0, index=3): {u'TrialImages': u'black_5.jpg', u'CorrAns': u'l'}
+78.9715 	EXP 	text_28: autoDraw = False
+78.9715 	EXP 	text_31: autoDraw = False
+78.9715 	EXP 	text_32: autoDraw = False
+78.9715 	EXP 	text_28: autoDraw = False
+78.9715 	EXP 	text_31: autoDraw = False
+78.9715 	EXP 	text_32: autoDraw = False
+78.9715 	EXP 	text_9: text = 'A = \nWhite'
+78.9715 	EXP 	text_10: text = 'L = \nBlack'
+78.9715 	EXP 	image: image = u'stimuli/black_5.jpg'
+78.9715 	EXP 	text_9: autoDraw = True
+78.9715 	EXP 	text_10: autoDraw = True
+78.9715 	EXP 	image: autoDraw = True
+79.6774 	DATA 	Keypress: l
+79.6875 	EXP 	text_9: autoDraw = False
+79.6875 	EXP 	text_10: autoDraw = False
+79.6875 	EXP 	image: autoDraw = False
+79.6875 	EXP 	text_28: text = ''
+79.6875 	EXP 	text_31: text = 'A = \nWhite'
+79.6875 	EXP 	text_32: text = 'L = \nBlack'
+79.6875 	EXP 	text_28: autoDraw = True
+79.6875 	EXP 	text_31: autoDraw = True
+79.6875 	EXP 	text_32: autoDraw = True
+80.6722 	EXP 	New trial (rep=0, index=4): {u'TrialImages': u'black_3.jpg', u'CorrAns': u'l'}
+80.6881 	EXP 	text_28: autoDraw = False
+80.6881 	EXP 	text_31: autoDraw = False
+80.6881 	EXP 	text_32: autoDraw = False
+80.6881 	EXP 	text_28: autoDraw = False
+80.6881 	EXP 	text_31: autoDraw = False
+80.6881 	EXP 	text_32: autoDraw = False
+80.6881 	EXP 	text_9: text = 'A = \nWhite'
+80.6881 	EXP 	text_10: text = 'L = \nBlack'
+80.6881 	EXP 	image: image = u'stimuli/black_3.jpg'
+80.6881 	EXP 	text_9: autoDraw = True
+80.6881 	EXP 	text_10: autoDraw = True
+80.6881 	EXP 	image: autoDraw = True
+81.2610 	DATA 	Keypress: l
+81.2708 	EXP 	text_9: autoDraw = False
+81.2708 	EXP 	text_10: autoDraw = False
+81.2708 	EXP 	image: autoDraw = False
+81.2708 	EXP 	text_28: text = ''
+81.2708 	EXP 	text_31: text = 'A = \nWhite'
+81.2708 	EXP 	text_32: text = 'L = \nBlack'
+81.2708 	EXP 	text_28: autoDraw = True
+81.2708 	EXP 	text_31: autoDraw = True
+81.2708 	EXP 	text_32: autoDraw = True
+82.2555 	EXP 	New trial (rep=0, index=5): {u'TrialImages': u'black_1.jpg', u'CorrAns': u'l'}
+82.2713 	EXP 	text_28: autoDraw = False
+82.2713 	EXP 	text_31: autoDraw = False
+82.2713 	EXP 	text_32: autoDraw = False
+82.2713 	EXP 	text_28: autoDraw = False
+82.2713 	EXP 	text_31: autoDraw = False
+82.2713 	EXP 	text_32: autoDraw = False
+82.2713 	EXP 	text_9: text = 'A = \nWhite'
+82.2713 	EXP 	text_10: text = 'L = \nBlack'
+82.2713 	EXP 	image: image = u'stimuli/black_1.jpg'
+82.2713 	EXP 	text_9: autoDraw = True
+82.2713 	EXP 	text_10: autoDraw = True
+82.2713 	EXP 	image: autoDraw = True
+82.8956 	DATA 	Keypress: l
+82.9212 	EXP 	text_9: autoDraw = False
+82.9212 	EXP 	text_10: autoDraw = False
+82.9212 	EXP 	image: autoDraw = False
+82.9212 	EXP 	text_28: text = ''
+82.9212 	EXP 	text_31: text = 'A = \nWhite'
+82.9212 	EXP 	text_32: text = 'L = \nBlack'
+82.9212 	EXP 	text_28: autoDraw = True
+82.9212 	EXP 	text_31: autoDraw = True
+82.9212 	EXP 	text_32: autoDraw = True
+83.9054 	EXP 	New trial (rep=0, index=6): {u'TrialImages': u'white_2.jpg', u'CorrAns': u'a'}
+83.9215 	EXP 	text_28: autoDraw = False
+83.9215 	EXP 	text_31: autoDraw = False
+83.9215 	EXP 	text_32: autoDraw = False
+83.9215 	EXP 	text_28: autoDraw = False
+83.9215 	EXP 	text_31: autoDraw = False
+83.9215 	EXP 	text_32: autoDraw = False
+83.9215 	EXP 	text_9: text = 'A = \nWhite'
+83.9215 	EXP 	text_10: text = 'L = \nBlack'
+83.9215 	EXP 	image: image = u'stimuli/white_2.jpg'
+83.9215 	EXP 	text_9: autoDraw = True
+83.9215 	EXP 	text_10: autoDraw = True
+83.9215 	EXP 	image: autoDraw = True
+84.9933 	DATA 	Keypress: a
+85.0207 	EXP 	text_9: autoDraw = False
+85.0207 	EXP 	text_10: autoDraw = False
+85.0207 	EXP 	image: autoDraw = False
+85.0207 	EXP 	text_28: text = ''
+85.0207 	EXP 	text_31: text = 'A = \nWhite'
+85.0207 	EXP 	text_32: text = 'L = \nBlack'
+85.0207 	EXP 	text_28: autoDraw = True
+85.0207 	EXP 	text_31: autoDraw = True
+85.0207 	EXP 	text_32: autoDraw = True
+86.0058 	EXP 	New trial (rep=0, index=7): {u'TrialImages': u'black_2.jpg', u'CorrAns': u'l'}
+86.0212 	EXP 	text_28: autoDraw = False
+86.0212 	EXP 	text_31: autoDraw = False
+86.0212 	EXP 	text_32: autoDraw = False
+86.0212 	EXP 	text_28: autoDraw = False
+86.0212 	EXP 	text_31: autoDraw = False
+86.0212 	EXP 	text_32: autoDraw = False
+86.0212 	EXP 	text_9: text = 'A = \nWhite'
+86.0212 	EXP 	text_10: text = 'L = \nBlack'
+86.0212 	EXP 	image: image = u'stimuli/black_2.jpg'
+86.0212 	EXP 	text_9: autoDraw = True
+86.0212 	EXP 	text_10: autoDraw = True
+86.0212 	EXP 	image: autoDraw = True
+86.6444 	DATA 	Keypress: l
+86.6708 	EXP 	text_9: autoDraw = False
+86.6708 	EXP 	text_10: autoDraw = False
+86.6708 	EXP 	image: autoDraw = False
+86.6708 	EXP 	text_28: text = ''
+86.6708 	EXP 	text_31: text = 'A = \nWhite'
+86.6708 	EXP 	text_32: text = 'L = \nBlack'
+86.6708 	EXP 	text_28: autoDraw = True
+86.6708 	EXP 	text_31: autoDraw = True
+86.6708 	EXP 	text_32: autoDraw = True
+87.6552 	EXP 	New trial (rep=0, index=8): {u'TrialImages': u'white_1.jpg', u'CorrAns': u'a'}
+87.6708 	EXP 	text_28: autoDraw = False
+87.6708 	EXP 	text_31: autoDraw = False
+87.6708 	EXP 	text_32: autoDraw = False
+87.6708 	EXP 	text_28: autoDraw = False
+87.6708 	EXP 	text_31: autoDraw = False
+87.6708 	EXP 	text_32: autoDraw = False
+87.6708 	EXP 	text_9: text = 'A = \nWhite'
+87.6708 	EXP 	text_10: text = 'L = \nBlack'
+87.6708 	EXP 	image: image = u'stimuli/white_1.jpg'
+87.6708 	EXP 	text_9: autoDraw = True
+87.6708 	EXP 	text_10: autoDraw = True
+87.6708 	EXP 	image: autoDraw = True
+88.8422 	DATA 	Keypress: a
+88.8536 	EXP 	text_9: autoDraw = False
+88.8536 	EXP 	text_10: autoDraw = False
+88.8536 	EXP 	image: autoDraw = False
+88.8536 	EXP 	text_28: text = ''
+88.8536 	EXP 	text_31: text = 'A = \nWhite'
+88.8536 	EXP 	text_32: text = 'L = \nBlack'
+88.8536 	EXP 	text_28: autoDraw = True
+88.8536 	EXP 	text_31: autoDraw = True
+88.8536 	EXP 	text_32: autoDraw = True
+89.8382 	EXP 	New trial (rep=0, index=9): {u'TrialImages': u'white_5.jpg', u'CorrAns': u'a'}
+89.8539 	EXP 	text_28: autoDraw = False
+89.8539 	EXP 	text_31: autoDraw = False
+89.8539 	EXP 	text_32: autoDraw = False
+89.8539 	EXP 	text_28: autoDraw = False
+89.8539 	EXP 	text_31: autoDraw = False
+89.8539 	EXP 	text_32: autoDraw = False
+89.8539 	EXP 	text_9: text = 'A = \nWhite'
+89.8539 	EXP 	text_10: text = 'L = \nBlack'
+89.8539 	EXP 	image: image = u'stimuli/white_5.jpg'
+89.8539 	EXP 	text_9: autoDraw = True
+89.8539 	EXP 	text_10: autoDraw = True
+89.8539 	EXP 	image: autoDraw = True
+90.9433 	DATA 	Keypress: a
+90.9543 	EXP 	text_9: autoDraw = False
+90.9543 	EXP 	text_10: autoDraw = False
+90.9543 	EXP 	image: autoDraw = False
+90.9543 	EXP 	text_28: text = ''
+90.9543 	EXP 	text_31: text = 'A = \nWhite'
+90.9543 	EXP 	text_32: text = 'L = \nBlack'
+90.9543 	EXP 	text_28: autoDraw = True
+90.9543 	EXP 	text_31: autoDraw = True
+90.9543 	EXP 	text_32: autoDraw = True
+91.9632 	EXP 	text_28: autoDraw = False
+91.9632 	EXP 	text_31: autoDraw = False
+91.9632 	EXP 	text_32: autoDraw = False
+91.9632 	EXP 	text_28: autoDraw = False
+91.9632 	EXP 	text_31: autoDraw = False
+91.9632 	EXP 	text_32: autoDraw = False
+91.9632 	EXP 	text_12: text = 'A = \nWhite or \nPositive'
+91.9632 	EXP 	text_13: text = 'L = \nBlack or \nNegative'
+91.9632 	EXP 	text_11: autoDraw = True
+91.9632 	EXP 	text_12: autoDraw = True
+91.9632 	EXP 	text_13: autoDraw = True
+97.5079 	DATA 	Keypress: space
+97.5143 	EXP 	Imported cong_test.xlsx as conditions, 20 conditions, 2 params
+97.5148 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+97.5157 	EXP 	New trial (rep=0, index=0): {u'TrialImages': u'Nasty.jpg', u'CorrAns': u'l'}
+97.5472 	EXP 	text_11: autoDraw = False
+97.5472 	EXP 	text_12: autoDraw = False
+97.5472 	EXP 	text_13: autoDraw = False
+97.5472 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+97.5472 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+97.5472 	EXP 	image_2: image = u'stimuli/Nasty.jpg'
+97.5472 	EXP 	text_14: autoDraw = True
+97.5472 	EXP 	text_15: autoDraw = True
+97.5472 	EXP 	image_2: autoDraw = True
+99.9960 	DATA 	Keypress: l
+100.0297 	EXP 	text_14: autoDraw = False
+100.0297 	EXP 	text_15: autoDraw = False
+100.0297 	EXP 	image_2: autoDraw = False
+100.0297 	EXP 	text_33: text = ''
+100.0297 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+100.0297 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+100.0297 	EXP 	text_33: autoDraw = True
+100.0297 	EXP 	text_34: autoDraw = True
+100.0297 	EXP 	text_35: autoDraw = True
+101.0052 	EXP 	New trial (rep=0, index=1): {u'TrialImages': u'Love.jpg', u'CorrAns': u'a'}
+101.0200 	EXP 	text_33: autoDraw = False
+101.0200 	EXP 	text_34: autoDraw = False
+101.0200 	EXP 	text_35: autoDraw = False
+101.0200 	EXP 	text_33: autoDraw = False
+101.0200 	EXP 	text_34: autoDraw = False
+101.0200 	EXP 	text_35: autoDraw = False
+101.0200 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+101.0200 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+101.0200 	EXP 	image_2: image = u'stimuli/Love.jpg'
+101.0200 	EXP 	text_14: autoDraw = True
+101.0200 	EXP 	text_15: autoDraw = True
+101.0200 	EXP 	image_2: autoDraw = True
+102.7259 	DATA 	Keypress: a
+102.7359 	EXP 	text_14: autoDraw = False
+102.7359 	EXP 	text_15: autoDraw = False
+102.7359 	EXP 	image_2: autoDraw = False
+102.7359 	EXP 	text_33: text = ''
+102.7359 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+102.7359 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+102.7359 	EXP 	text_33: autoDraw = True
+102.7359 	EXP 	text_34: autoDraw = True
+102.7359 	EXP 	text_35: autoDraw = True
+103.7211 	EXP 	New trial (rep=0, index=2): {u'TrialImages': u'black_4.jpg', u'CorrAns': u'l'}
+103.7365 	EXP 	text_33: autoDraw = False
+103.7365 	EXP 	text_34: autoDraw = False
+103.7365 	EXP 	text_35: autoDraw = False
+103.7365 	EXP 	text_33: autoDraw = False
+103.7365 	EXP 	text_34: autoDraw = False
+103.7365 	EXP 	text_35: autoDraw = False
+103.7365 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+103.7365 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+103.7365 	EXP 	image_2: image = u'stimuli/black_4.jpg'
+103.7365 	EXP 	text_14: autoDraw = True
+103.7365 	EXP 	text_15: autoDraw = True
+103.7365 	EXP 	image_2: autoDraw = True
+104.8242 	DATA 	Keypress: l
+104.8366 	EXP 	text_14: autoDraw = False
+104.8366 	EXP 	text_15: autoDraw = False
+104.8366 	EXP 	image_2: autoDraw = False
+104.8366 	EXP 	text_33: text = ''
+104.8366 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+104.8366 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+104.8366 	EXP 	text_33: autoDraw = True
+104.8366 	EXP 	text_34: autoDraw = True
+104.8366 	EXP 	text_35: autoDraw = True
+105.8211 	EXP 	New trial (rep=0, index=3): {u'TrialImages': u'black_1.jpg', u'CorrAns': u'l'}
+105.8368 	EXP 	text_33: autoDraw = False
+105.8368 	EXP 	text_34: autoDraw = False
+105.8368 	EXP 	text_35: autoDraw = False
+105.8368 	EXP 	text_33: autoDraw = False
+105.8368 	EXP 	text_34: autoDraw = False
+105.8368 	EXP 	text_35: autoDraw = False
+105.8368 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+105.8368 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+105.8368 	EXP 	image_2: image = u'stimuli/black_1.jpg'
+105.8368 	EXP 	text_14: autoDraw = True
+105.8368 	EXP 	text_15: autoDraw = True
+105.8368 	EXP 	image_2: autoDraw = True
+106.6763 	DATA 	Keypress: l
+106.6862 	EXP 	text_14: autoDraw = False
+106.6862 	EXP 	text_15: autoDraw = False
+106.6862 	EXP 	image_2: autoDraw = False
+106.6862 	EXP 	text_33: text = ''
+106.6862 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+106.6862 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+106.6862 	EXP 	text_33: autoDraw = True
+106.6862 	EXP 	text_34: autoDraw = True
+106.6862 	EXP 	text_35: autoDraw = True
+107.6711 	EXP 	New trial (rep=0, index=4): {u'TrialImages': u'Evil.jpg', u'CorrAns': u'l'}
+107.6867 	EXP 	text_33: autoDraw = False
+107.6867 	EXP 	text_34: autoDraw = False
+107.6867 	EXP 	text_35: autoDraw = False
+107.6867 	EXP 	text_33: autoDraw = False
+107.6867 	EXP 	text_34: autoDraw = False
+107.6867 	EXP 	text_35: autoDraw = False
+107.6867 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+107.6867 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+107.6867 	EXP 	image_2: image = u'stimuli/Evil.jpg'
+107.6867 	EXP 	text_14: autoDraw = True
+107.6867 	EXP 	text_15: autoDraw = True
+107.6867 	EXP 	image_2: autoDraw = True
+108.3430 	DATA 	Keypress: l
+108.3536 	EXP 	text_14: autoDraw = False
+108.3536 	EXP 	text_15: autoDraw = False
+108.3536 	EXP 	image_2: autoDraw = False
+108.3536 	EXP 	text_33: text = ''
+108.3536 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+108.3536 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+108.3536 	EXP 	text_33: autoDraw = True
+108.3536 	EXP 	text_34: autoDraw = True
+108.3536 	EXP 	text_35: autoDraw = True
+109.3374 	EXP 	New trial (rep=0, index=5): {u'TrialImages': u'Hurt.jpg', u'CorrAns': u'l'}
+109.3532 	EXP 	text_33: autoDraw = False
+109.3532 	EXP 	text_34: autoDraw = False
+109.3532 	EXP 	text_35: autoDraw = False
+109.3532 	EXP 	text_33: autoDraw = False
+109.3532 	EXP 	text_34: autoDraw = False
+109.3532 	EXP 	text_35: autoDraw = False
+109.3532 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+109.3532 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+109.3532 	EXP 	image_2: image = u'stimuli/Hurt.jpg'
+109.3532 	EXP 	text_14: autoDraw = True
+109.3532 	EXP 	text_15: autoDraw = True
+109.3532 	EXP 	image_2: autoDraw = True
+109.9568 	DATA 	Keypress: l
+109.9689 	EXP 	text_14: autoDraw = False
+109.9689 	EXP 	text_15: autoDraw = False
+109.9689 	EXP 	image_2: autoDraw = False
+109.9689 	EXP 	text_33: text = ''
+109.9689 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+109.9689 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+109.9689 	EXP 	text_33: autoDraw = True
+109.9689 	EXP 	text_34: autoDraw = True
+109.9689 	EXP 	text_35: autoDraw = True
+110.9543 	EXP 	New trial (rep=0, index=6): {u'TrialImages': u'white_2.jpg', u'CorrAns': u'a'}
+110.9698 	EXP 	text_33: autoDraw = False
+110.9698 	EXP 	text_34: autoDraw = False
+110.9698 	EXP 	text_35: autoDraw = False
+110.9698 	EXP 	text_33: autoDraw = False
+110.9698 	EXP 	text_34: autoDraw = False
+110.9698 	EXP 	text_35: autoDraw = False
+110.9698 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+110.9698 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+110.9698 	EXP 	image_2: image = u'stimuli/white_2.jpg'
+110.9698 	EXP 	text_14: autoDraw = True
+110.9698 	EXP 	text_15: autoDraw = True
+110.9698 	EXP 	image_2: autoDraw = True
+111.6742 	DATA 	Keypress: a
+111.6857 	EXP 	text_14: autoDraw = False
+111.6857 	EXP 	text_15: autoDraw = False
+111.6857 	EXP 	image_2: autoDraw = False
+111.6857 	EXP 	text_33: text = ''
+111.6857 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+111.6857 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+111.6857 	EXP 	text_33: autoDraw = True
+111.6857 	EXP 	text_34: autoDraw = True
+111.6857 	EXP 	text_35: autoDraw = True
+112.6705 	EXP 	New trial (rep=0, index=7): {u'TrialImages': u'black_2.jpg', u'CorrAns': u'l'}
+112.6861 	EXP 	text_33: autoDraw = False
+112.6861 	EXP 	text_34: autoDraw = False
+112.6861 	EXP 	text_35: autoDraw = False
+112.6861 	EXP 	text_33: autoDraw = False
+112.6861 	EXP 	text_34: autoDraw = False
+112.6861 	EXP 	text_35: autoDraw = False
+112.6861 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+112.6861 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+112.6861 	EXP 	image_2: image = u'stimuli/black_2.jpg'
+112.6861 	EXP 	text_14: autoDraw = True
+112.6861 	EXP 	text_15: autoDraw = True
+112.6861 	EXP 	image_2: autoDraw = True
+113.6265 	DATA 	Keypress: l
+113.6359 	EXP 	text_14: autoDraw = False
+113.6359 	EXP 	text_15: autoDraw = False
+113.6359 	EXP 	image_2: autoDraw = False
+113.6359 	EXP 	text_33: text = ''
+113.6359 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+113.6359 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+113.6359 	EXP 	text_33: autoDraw = True
+113.6359 	EXP 	text_34: autoDraw = True
+113.6359 	EXP 	text_35: autoDraw = True
+114.6209 	EXP 	New trial (rep=0, index=8): {u'TrialImages': u'Pleasure.jpg', u'CorrAns': u'a'}
+114.6356 	EXP 	text_33: autoDraw = False
+114.6356 	EXP 	text_34: autoDraw = False
+114.6356 	EXP 	text_35: autoDraw = False
+114.6356 	EXP 	text_33: autoDraw = False
+114.6356 	EXP 	text_34: autoDraw = False
+114.6356 	EXP 	text_35: autoDraw = False
+114.6356 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+114.6356 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+114.6356 	EXP 	image_2: image = u'stimuli/Pleasure.jpg'
+114.6356 	EXP 	text_14: autoDraw = True
+114.6356 	EXP 	text_15: autoDraw = True
+114.6356 	EXP 	image_2: autoDraw = True
+115.4589 	DATA 	Keypress: a
+115.4860 	EXP 	text_14: autoDraw = False
+115.4860 	EXP 	text_15: autoDraw = False
+115.4860 	EXP 	image_2: autoDraw = False
+115.4860 	EXP 	text_33: text = ''
+115.4860 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+115.4860 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+115.4860 	EXP 	text_33: autoDraw = True
+115.4860 	EXP 	text_34: autoDraw = True
+115.4860 	EXP 	text_35: autoDraw = True
+115.6592 	DATA 	Keypress: a
+116.4696 	EXP 	New trial (rep=0, index=9): {u'TrialImages': u'Bad.jpg', u'CorrAns': u'l'}
+116.4859 	EXP 	text_33: autoDraw = False
+116.4859 	EXP 	text_34: autoDraw = False
+116.4859 	EXP 	text_35: autoDraw = False
+116.4859 	EXP 	text_33: autoDraw = False
+116.4859 	EXP 	text_34: autoDraw = False
+116.4859 	EXP 	text_35: autoDraw = False
+116.4859 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+116.4859 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+116.4859 	EXP 	image_2: image = u'stimuli/Bad.jpg'
+116.4859 	EXP 	text_14: autoDraw = True
+116.4859 	EXP 	text_15: autoDraw = True
+116.4859 	EXP 	image_2: autoDraw = True
+117.6420 	DATA 	Keypress: l
+117.6525 	EXP 	text_14: autoDraw = False
+117.6525 	EXP 	text_15: autoDraw = False
+117.6525 	EXP 	image_2: autoDraw = False
+117.6525 	EXP 	text_33: text = ''
+117.6525 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+117.6525 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+117.6525 	EXP 	text_33: autoDraw = True
+117.6525 	EXP 	text_34: autoDraw = True
+117.6525 	EXP 	text_35: autoDraw = True
+118.6376 	EXP 	New trial (rep=0, index=10): {u'TrialImages': u'white_1.jpg', u'CorrAns': u'a'}
+118.6524 	EXP 	text_33: autoDraw = False
+118.6524 	EXP 	text_34: autoDraw = False
+118.6524 	EXP 	text_35: autoDraw = False
+118.6524 	EXP 	text_33: autoDraw = False
+118.6524 	EXP 	text_34: autoDraw = False
+118.6524 	EXP 	text_35: autoDraw = False
+118.6524 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+118.6524 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+118.6524 	EXP 	image_2: image = u'stimuli/white_1.jpg'
+118.6524 	EXP 	text_14: autoDraw = True
+118.6524 	EXP 	text_15: autoDraw = True
+118.6524 	EXP 	image_2: autoDraw = True
+119.5594 	DATA 	Keypress: a
+119.5695 	EXP 	text_14: autoDraw = False
+119.5695 	EXP 	text_15: autoDraw = False
+119.5695 	EXP 	image_2: autoDraw = False
+119.5695 	EXP 	text_33: text = ''
+119.5695 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+119.5695 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+119.5695 	EXP 	text_33: autoDraw = True
+119.5695 	EXP 	text_34: autoDraw = True
+119.5695 	EXP 	text_35: autoDraw = True
+120.5539 	EXP 	New trial (rep=0, index=11): {u'TrialImages': u'white_5.jpg', u'CorrAns': u'a'}
+120.5694 	EXP 	text_33: autoDraw = False
+120.5694 	EXP 	text_34: autoDraw = False
+120.5694 	EXP 	text_35: autoDraw = False
+120.5694 	EXP 	text_33: autoDraw = False
+120.5694 	EXP 	text_34: autoDraw = False
+120.5694 	EXP 	text_35: autoDraw = False
+120.5694 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+120.5694 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+120.5694 	EXP 	image_2: image = u'stimuli/white_5.jpg'
+120.5694 	EXP 	text_14: autoDraw = True
+120.5694 	EXP 	text_15: autoDraw = True
+120.5694 	EXP 	image_2: autoDraw = True
+121.7915 	DATA 	Keypress: a
+121.8023 	EXP 	text_14: autoDraw = False
+121.8023 	EXP 	text_15: autoDraw = False
+121.8023 	EXP 	image_2: autoDraw = False
+121.8023 	EXP 	text_33: text = ''
+121.8023 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+121.8023 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+121.8023 	EXP 	text_33: autoDraw = True
+121.8023 	EXP 	text_34: autoDraw = True
+121.8023 	EXP 	text_35: autoDraw = True
+122.7869 	EXP 	New trial (rep=0, index=12): {u'TrialImages': u'Agony.jpg', u'CorrAns': u'l'}
+122.8020 	EXP 	text_33: autoDraw = False
+122.8020 	EXP 	text_34: autoDraw = False
+122.8020 	EXP 	text_35: autoDraw = False
+122.8020 	EXP 	text_33: autoDraw = False
+122.8020 	EXP 	text_34: autoDraw = False
+122.8020 	EXP 	text_35: autoDraw = False
+122.8020 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+122.8020 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+122.8020 	EXP 	image_2: image = u'stimuli/Agony.jpg'
+122.8020 	EXP 	text_14: autoDraw = True
+122.8020 	EXP 	text_15: autoDraw = True
+122.8020 	EXP 	image_2: autoDraw = True
+123.7104 	DATA 	Keypress: l
+123.7349 	EXP 	text_14: autoDraw = False
+123.7349 	EXP 	text_15: autoDraw = False
+123.7349 	EXP 	image_2: autoDraw = False
+123.7349 	EXP 	text_33: text = ''
+123.7349 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+123.7349 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+123.7349 	EXP 	text_33: autoDraw = True
+123.7349 	EXP 	text_34: autoDraw = True
+123.7349 	EXP 	text_35: autoDraw = True
+124.7199 	EXP 	New trial (rep=0, index=13): {u'TrialImages': u'white_4.jpg', u'CorrAns': u'a'}
+124.7353 	EXP 	text_33: autoDraw = False
+124.7353 	EXP 	text_34: autoDraw = False
+124.7353 	EXP 	text_35: autoDraw = False
+124.7353 	EXP 	text_33: autoDraw = False
+124.7353 	EXP 	text_34: autoDraw = False
+124.7353 	EXP 	text_35: autoDraw = False
+124.7353 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+124.7353 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+124.7353 	EXP 	image_2: image = u'stimuli/white_4.jpg'
+124.7353 	EXP 	text_14: autoDraw = True
+124.7353 	EXP 	text_15: autoDraw = True
+124.7353 	EXP 	image_2: autoDraw = True
+126.1399 	DATA 	Keypress: a
+126.1520 	EXP 	text_14: autoDraw = False
+126.1520 	EXP 	text_15: autoDraw = False
+126.1520 	EXP 	image_2: autoDraw = False
+126.1520 	EXP 	text_33: text = ''
+126.1520 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+126.1520 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+126.1520 	EXP 	text_33: autoDraw = True
+126.1520 	EXP 	text_34: autoDraw = True
+126.1520 	EXP 	text_35: autoDraw = True
+127.1364 	EXP 	New trial (rep=0, index=14): {u'TrialImages': u'Happy.jpg', u'CorrAns': u'a'}
+127.1518 	EXP 	text_33: autoDraw = False
+127.1518 	EXP 	text_34: autoDraw = False
+127.1518 	EXP 	text_35: autoDraw = False
+127.1518 	EXP 	text_33: autoDraw = False
+127.1518 	EXP 	text_34: autoDraw = False
+127.1518 	EXP 	text_35: autoDraw = False
+127.1518 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+127.1518 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+127.1518 	EXP 	image_2: image = u'stimuli/Happy.jpg'
+127.1518 	EXP 	text_14: autoDraw = True
+127.1518 	EXP 	text_15: autoDraw = True
+127.1518 	EXP 	image_2: autoDraw = True
+127.8397 	DATA 	Keypress: a
+127.8517 	EXP 	text_14: autoDraw = False
+127.8517 	EXP 	text_15: autoDraw = False
+127.8517 	EXP 	image_2: autoDraw = False
+127.8517 	EXP 	text_33: text = ''
+127.8517 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+127.8517 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+127.8517 	EXP 	text_33: autoDraw = True
+127.8517 	EXP 	text_34: autoDraw = True
+127.8517 	EXP 	text_35: autoDraw = True
+128.8369 	EXP 	New trial (rep=0, index=15): {u'TrialImages': u'black_5.jpg', u'CorrAns': u'l'}
+128.8516 	EXP 	text_33: autoDraw = False
+128.8516 	EXP 	text_34: autoDraw = False
+128.8516 	EXP 	text_35: autoDraw = False
+128.8516 	EXP 	text_33: autoDraw = False
+128.8516 	EXP 	text_34: autoDraw = False
+128.8516 	EXP 	text_35: autoDraw = False
+128.8516 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+128.8516 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+128.8516 	EXP 	image_2: image = u'stimuli/black_5.jpg'
+128.8516 	EXP 	text_14: autoDraw = True
+128.8516 	EXP 	text_15: autoDraw = True
+128.8516 	EXP 	image_2: autoDraw = True
+130.1739 	DATA 	Keypress: l
+130.1852 	EXP 	text_14: autoDraw = False
+130.1852 	EXP 	text_15: autoDraw = False
+130.1852 	EXP 	image_2: autoDraw = False
+130.1852 	EXP 	text_33: text = ''
+130.1852 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+130.1852 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+130.1852 	EXP 	text_33: autoDraw = True
+130.1852 	EXP 	text_34: autoDraw = True
+130.1852 	EXP 	text_35: autoDraw = True
+131.1700 	EXP 	New trial (rep=0, index=16): {u'TrialImages': u'Joy.jpg', u'CorrAns': u'a'}
+131.1850 	EXP 	text_33: autoDraw = False
+131.1850 	EXP 	text_34: autoDraw = False
+131.1850 	EXP 	text_35: autoDraw = False
+131.1850 	EXP 	text_33: autoDraw = False
+131.1850 	EXP 	text_34: autoDraw = False
+131.1850 	EXP 	text_35: autoDraw = False
+131.1850 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+131.1850 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+131.1850 	EXP 	image_2: image = u'stimuli/Joy.jpg'
+131.1850 	EXP 	text_14: autoDraw = True
+131.1850 	EXP 	text_15: autoDraw = True
+131.1850 	EXP 	image_2: autoDraw = True
+132.0074 	DATA 	Keypress: a
+132.0183 	EXP 	text_14: autoDraw = False
+132.0183 	EXP 	text_15: autoDraw = False
+132.0183 	EXP 	image_2: autoDraw = False
+132.0183 	EXP 	text_33: text = ''
+132.0183 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+132.0183 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+132.0183 	EXP 	text_33: autoDraw = True
+132.0183 	EXP 	text_34: autoDraw = True
+132.0183 	EXP 	text_35: autoDraw = True
+133.0030 	EXP 	New trial (rep=0, index=17): {u'TrialImages': u'Good.jpg', u'CorrAns': u'a'}
+133.0184 	EXP 	text_33: autoDraw = False
+133.0184 	EXP 	text_34: autoDraw = False
+133.0184 	EXP 	text_35: autoDraw = False
+133.0184 	EXP 	text_33: autoDraw = False
+133.0184 	EXP 	text_34: autoDraw = False
+133.0184 	EXP 	text_35: autoDraw = False
+133.0184 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+133.0184 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+133.0184 	EXP 	image_2: image = u'stimuli/Good.jpg'
+133.0184 	EXP 	text_14: autoDraw = True
+133.0184 	EXP 	text_15: autoDraw = True
+133.0184 	EXP 	image_2: autoDraw = True
+134.4725 	DATA 	Keypress: a
+134.4847 	EXP 	text_14: autoDraw = False
+134.4847 	EXP 	text_15: autoDraw = False
+134.4847 	EXP 	image_2: autoDraw = False
+134.4847 	EXP 	text_33: text = ''
+134.4847 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+134.4847 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+134.4847 	EXP 	text_33: autoDraw = True
+134.4847 	EXP 	text_34: autoDraw = True
+134.4847 	EXP 	text_35: autoDraw = True
+135.4697 	EXP 	New trial (rep=0, index=18): {u'TrialImages': u'white_3.jpg', u'CorrAns': u'a'}
+135.4852 	EXP 	text_33: autoDraw = False
+135.4852 	EXP 	text_34: autoDraw = False
+135.4852 	EXP 	text_35: autoDraw = False
+135.4852 	EXP 	text_33: autoDraw = False
+135.4852 	EXP 	text_34: autoDraw = False
+135.4852 	EXP 	text_35: autoDraw = False
+135.4852 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+135.4852 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+135.4852 	EXP 	image_2: image = u'stimuli/white_3.jpg'
+135.4852 	EXP 	text_14: autoDraw = True
+135.4852 	EXP 	text_15: autoDraw = True
+135.4852 	EXP 	image_2: autoDraw = True
+137.8246 	DATA 	Keypress: a
+137.8343 	EXP 	text_14: autoDraw = False
+137.8343 	EXP 	text_15: autoDraw = False
+137.8343 	EXP 	image_2: autoDraw = False
+137.8343 	EXP 	text_33: text = ''
+137.8343 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+137.8343 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+137.8343 	EXP 	text_33: autoDraw = True
+137.8343 	EXP 	text_34: autoDraw = True
+137.8343 	EXP 	text_35: autoDraw = True
+138.8194 	EXP 	New trial (rep=0, index=19): {u'TrialImages': u'black_3.jpg', u'CorrAns': u'l'}
+138.8352 	EXP 	text_33: autoDraw = False
+138.8352 	EXP 	text_34: autoDraw = False
+138.8352 	EXP 	text_35: autoDraw = False
+138.8352 	EXP 	text_33: autoDraw = False
+138.8352 	EXP 	text_34: autoDraw = False
+138.8352 	EXP 	text_35: autoDraw = False
+138.8352 	EXP 	text_14: text = 'A = \nWhite or \nPositive'
+138.8352 	EXP 	text_15: text = 'L = \nBlack or \nNegative'
+138.8352 	EXP 	image_2: image = u'stimuli/black_3.jpg'
+138.8352 	EXP 	text_14: autoDraw = True
+138.8352 	EXP 	text_15: autoDraw = True
+138.8352 	EXP 	image_2: autoDraw = True
+139.4744 	DATA 	Keypress: l
+139.4848 	EXP 	text_14: autoDraw = False
+139.4848 	EXP 	text_15: autoDraw = False
+139.4848 	EXP 	image_2: autoDraw = False
+139.4848 	EXP 	text_33: text = ''
+139.4848 	EXP 	text_34: text = 'A = \nWhite or \nPositive'
+139.4848 	EXP 	text_35: text = 'L = \nBlack or \nNegative'
+139.4848 	EXP 	text_33: autoDraw = True
+139.4848 	EXP 	text_34: autoDraw = True
+139.4848 	EXP 	text_35: autoDraw = True
+140.4695 	EXP 	New trial (rep=1, index=0): None
+140.4965 	EXP 	text_33: autoDraw = False
+140.4965 	EXP 	text_34: autoDraw = False
+140.4965 	EXP 	text_35: autoDraw = False
+140.4965 	EXP 	text_33: autoDraw = False
+140.4965 	EXP 	text_34: autoDraw = False
+140.4965 	EXP 	text_35: autoDraw = False
+140.4965 	EXP 	text_7: text = 'A = \nBlack'
+140.4965 	EXP 	text_8: text = 'L = \nWhite'
+140.4965 	EXP 	text_6: autoDraw = True
+140.4965 	EXP 	text_7: autoDraw = True
+140.4965 	EXP 	text_8: autoDraw = True
+146.7344 	DATA 	Keypress: space
+146.7402 	EXP 	Imported incong_train.xlsx as conditions, 10 conditions, 2 params
+146.7405 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+146.7414 	EXP 	New trial (rep=0, index=0): {u'TrialImages': u'black_1.jpg', u'CorrAns': u'a'}
+146.7623 	EXP 	text_6: autoDraw = False
+146.7623 	EXP 	text_7: autoDraw = False
+146.7623 	EXP 	text_8: autoDraw = False
+146.7623 	EXP 	text_9: text = 'A = \nBlack'
+146.7623 	EXP 	text_10: text = 'L = \nWhite'
+146.7623 	EXP 	image: image = u'stimuli/black_1.jpg'
+146.7623 	EXP 	text_9: autoDraw = True
+146.7623 	EXP 	text_10: autoDraw = True
+146.7623 	EXP 	image: autoDraw = True
+148.6522 	DATA 	Keypress: a
+148.6800 	EXP 	text_9: autoDraw = False
+148.6800 	EXP 	text_10: autoDraw = False
+148.6800 	EXP 	image: autoDraw = False
+148.6800 	EXP 	text_28: text = ''
+148.6800 	EXP 	text_31: text = 'A = \nBlack'
+148.6800 	EXP 	text_32: text = 'L = \nWhite'
+148.6800 	EXP 	text_28: autoDraw = True
+148.6800 	EXP 	text_31: autoDraw = True
+148.6800 	EXP 	text_32: autoDraw = True
+149.6471 	EXP 	New trial (rep=0, index=1): {u'TrialImages': u'white_1.jpg', u'CorrAns': u'l'}
+149.6624 	EXP 	text_28: autoDraw = False
+149.6624 	EXP 	text_31: autoDraw = False
+149.6624 	EXP 	text_32: autoDraw = False
+149.6624 	EXP 	text_28: autoDraw = False
+149.6624 	EXP 	text_31: autoDraw = False
+149.6624 	EXP 	text_32: autoDraw = False
+149.6624 	EXP 	text_9: text = 'A = \nBlack'
+149.6624 	EXP 	text_10: text = 'L = \nWhite'
+149.6624 	EXP 	image: image = u'stimuli/white_1.jpg'
+149.6624 	EXP 	text_9: autoDraw = True
+149.6624 	EXP 	text_10: autoDraw = True
+149.6624 	EXP 	image: autoDraw = True
+150.6525 	DATA 	Keypress: l
+150.6625 	EXP 	text_9: autoDraw = False
+150.6625 	EXP 	text_10: autoDraw = False
+150.6625 	EXP 	image: autoDraw = False
+150.6625 	EXP 	text_28: text = ''
+150.6625 	EXP 	text_31: text = 'A = \nBlack'
+150.6625 	EXP 	text_32: text = 'L = \nWhite'
+150.6625 	EXP 	text_28: autoDraw = True
+150.6625 	EXP 	text_31: autoDraw = True
+150.6625 	EXP 	text_32: autoDraw = True
+151.6472 	EXP 	New trial (rep=0, index=2): {u'TrialImages': u'black_3.jpg', u'CorrAns': u'a'}
+151.6623 	EXP 	text_28: autoDraw = False
+151.6623 	EXP 	text_31: autoDraw = False
+151.6623 	EXP 	text_32: autoDraw = False
+151.6623 	EXP 	text_28: autoDraw = False
+151.6623 	EXP 	text_31: autoDraw = False
+151.6623 	EXP 	text_32: autoDraw = False
+151.6623 	EXP 	text_9: text = 'A = \nBlack'
+151.6623 	EXP 	text_10: text = 'L = \nWhite'
+151.6623 	EXP 	image: image = u'stimuli/black_3.jpg'
+151.6623 	EXP 	text_9: autoDraw = True
+151.6623 	EXP 	text_10: autoDraw = True
+151.6623 	EXP 	image: autoDraw = True
+152.4010 	DATA 	Keypress: a
+152.4131 	EXP 	text_9: autoDraw = False
+152.4131 	EXP 	text_10: autoDraw = False
+152.4131 	EXP 	image: autoDraw = False
+152.4131 	EXP 	text_28: text = ''
+152.4131 	EXP 	text_31: text = 'A = \nBlack'
+152.4131 	EXP 	text_32: text = 'L = \nWhite'
+152.4131 	EXP 	text_28: autoDraw = True
+152.4131 	EXP 	text_31: autoDraw = True
+152.4131 	EXP 	text_32: autoDraw = True
+153.3973 	EXP 	New trial (rep=0, index=3): {u'TrialImages': u'black_4.jpg', u'CorrAns': u'a'}
+153.4125 	EXP 	text_28: autoDraw = False
+153.4125 	EXP 	text_31: autoDraw = False
+153.4125 	EXP 	text_32: autoDraw = False
+153.4125 	EXP 	text_28: autoDraw = False
+153.4125 	EXP 	text_31: autoDraw = False
+153.4125 	EXP 	text_32: autoDraw = False
+153.4125 	EXP 	text_9: text = 'A = \nBlack'
+153.4125 	EXP 	text_10: text = 'L = \nWhite'
+153.4125 	EXP 	image: image = u'stimuli/black_4.jpg'
+153.4125 	EXP 	text_9: autoDraw = True
+153.4125 	EXP 	text_10: autoDraw = True
+153.4125 	EXP 	image: autoDraw = True
+154.2344 	DATA 	Keypress: a
+154.2623 	EXP 	text_9: autoDraw = False
+154.2623 	EXP 	text_10: autoDraw = False
+154.2623 	EXP 	image: autoDraw = False
+154.2623 	EXP 	text_28: text = ''
+154.2623 	EXP 	text_31: text = 'A = \nBlack'
+154.2623 	EXP 	text_32: text = 'L = \nWhite'
+154.2623 	EXP 	text_28: autoDraw = True
+154.2623 	EXP 	text_31: autoDraw = True
+154.2623 	EXP 	text_32: autoDraw = True
+155.2472 	EXP 	New trial (rep=0, index=4): {u'TrialImages': u'white_5.jpg', u'CorrAns': u'l'}
+155.2630 	EXP 	text_28: autoDraw = False
+155.2630 	EXP 	text_31: autoDraw = False
+155.2630 	EXP 	text_32: autoDraw = False
+155.2630 	EXP 	text_28: autoDraw = False
+155.2630 	EXP 	text_31: autoDraw = False
+155.2630 	EXP 	text_32: autoDraw = False
+155.2630 	EXP 	text_9: text = 'A = \nBlack'
+155.2630 	EXP 	text_10: text = 'L = \nWhite'
+155.2630 	EXP 	image: image = u'stimuli/white_5.jpg'
+155.2630 	EXP 	text_9: autoDraw = True
+155.2630 	EXP 	text_10: autoDraw = True
+155.2630 	EXP 	image: autoDraw = True
+156.2676 	DATA 	Keypress: l
+156.2804 	EXP 	text_9: autoDraw = False
+156.2804 	EXP 	text_10: autoDraw = False
+156.2804 	EXP 	image: autoDraw = False
+156.2804 	EXP 	text_28: text = ''
+156.2804 	EXP 	text_31: text = 'A = \nBlack'
+156.2804 	EXP 	text_32: text = 'L = \nWhite'
+156.2804 	EXP 	text_28: autoDraw = True
+156.2804 	EXP 	text_31: autoDraw = True
+156.2804 	EXP 	text_32: autoDraw = True
+157.2636 	EXP 	New trial (rep=0, index=5): {u'TrialImages': u'white_3.jpg', u'CorrAns': u'l'}
+157.2789 	EXP 	text_28: autoDraw = False
+157.2789 	EXP 	text_31: autoDraw = False
+157.2789 	EXP 	text_32: autoDraw = False
+157.2789 	EXP 	text_28: autoDraw = False
+157.2789 	EXP 	text_31: autoDraw = False
+157.2789 	EXP 	text_32: autoDraw = False
+157.2789 	EXP 	text_9: text = 'A = \nBlack'
+157.2789 	EXP 	text_10: text = 'L = \nWhite'
+157.2789 	EXP 	image: image = u'stimuli/white_3.jpg'
+157.2789 	EXP 	text_9: autoDraw = True
+157.2789 	EXP 	text_10: autoDraw = True
+157.2789 	EXP 	image: autoDraw = True
+160.4029 	DATA 	Keypress: a
+160.4169 	EXP 	text_9: autoDraw = False
+160.4169 	EXP 	text_10: autoDraw = False
+160.4169 	EXP 	image: autoDraw = False
+160.4169 	EXP 	text_28: text = 'oops'
+160.4169 	EXP 	text_31: text = 'A = \nBlack'
+160.4169 	EXP 	text_32: text = 'L = \nWhite'
+160.4169 	EXP 	text_28: autoDraw = True
+160.4169 	EXP 	text_31: autoDraw = True
+160.4169 	EXP 	text_32: autoDraw = True
+161.4017 	EXP 	New trial (rep=0, index=6): {u'TrialImages': u'white_4.jpg', u'CorrAns': u'l'}
+161.4170 	EXP 	text_28: autoDraw = False
+161.4170 	EXP 	text_31: autoDraw = False
+161.4170 	EXP 	text_32: autoDraw = False
+161.4170 	EXP 	text_28: autoDraw = False
+161.4170 	EXP 	text_31: autoDraw = False
+161.4170 	EXP 	text_32: autoDraw = False
+161.4170 	EXP 	text_9: text = 'A = \nBlack'
+161.4170 	EXP 	text_10: text = 'L = \nWhite'
+161.4170 	EXP 	image: image = u'stimuli/white_4.jpg'
+161.4170 	EXP 	text_9: autoDraw = True
+161.4170 	EXP 	text_10: autoDraw = True
+161.4170 	EXP 	image: autoDraw = True
+163.9567 	DATA 	Keypress: l
+163.9667 	EXP 	text_9: autoDraw = False
+163.9667 	EXP 	text_10: autoDraw = False
+163.9667 	EXP 	image: autoDraw = False
+163.9667 	EXP 	text_28: text = ''
+163.9667 	EXP 	text_31: text = 'A = \nBlack'
+163.9667 	EXP 	text_32: text = 'L = \nWhite'
+163.9667 	EXP 	text_28: autoDraw = True
+163.9667 	EXP 	text_31: autoDraw = True
+163.9667 	EXP 	text_32: autoDraw = True
+164.9516 	EXP 	New trial (rep=0, index=7): {u'TrialImages': u'black_2.jpg', u'CorrAns': u'a'}
+164.9675 	EXP 	text_28: autoDraw = False
+164.9675 	EXP 	text_31: autoDraw = False
+164.9675 	EXP 	text_32: autoDraw = False
+164.9675 	EXP 	text_28: autoDraw = False
+164.9675 	EXP 	text_31: autoDraw = False
+164.9675 	EXP 	text_32: autoDraw = False
+164.9675 	EXP 	text_9: text = 'A = \nBlack'
+164.9675 	EXP 	text_10: text = 'L = \nWhite'
+164.9675 	EXP 	image: image = u'stimuli/black_2.jpg'
+164.9675 	EXP 	text_9: autoDraw = True
+164.9675 	EXP 	text_10: autoDraw = True
+164.9675 	EXP 	image: autoDraw = True
+165.7055 	DATA 	Keypress: a
+165.7172 	EXP 	text_9: autoDraw = False
+165.7172 	EXP 	text_10: autoDraw = False
+165.7172 	EXP 	image: autoDraw = False
+165.7172 	EXP 	text_28: text = ''
+165.7172 	EXP 	text_31: text = 'A = \nBlack'
+165.7172 	EXP 	text_32: text = 'L = \nWhite'
+165.7172 	EXP 	text_28: autoDraw = True
+165.7172 	EXP 	text_31: autoDraw = True
+165.7172 	EXP 	text_32: autoDraw = True
+166.7008 	EXP 	New trial (rep=0, index=8): {u'TrialImages': u'white_2.jpg', u'CorrAns': u'l'}
+166.7167 	EXP 	text_28: autoDraw = False
+166.7167 	EXP 	text_31: autoDraw = False
+166.7167 	EXP 	text_32: autoDraw = False
+166.7167 	EXP 	text_28: autoDraw = False
+166.7167 	EXP 	text_31: autoDraw = False
+166.7167 	EXP 	text_32: autoDraw = False
+166.7167 	EXP 	text_9: text = 'A = \nBlack'
+166.7167 	EXP 	text_10: text = 'L = \nWhite'
+166.7167 	EXP 	image: image = u'stimuli/white_2.jpg'
+166.7167 	EXP 	text_9: autoDraw = True
+166.7167 	EXP 	text_10: autoDraw = True
+166.7167 	EXP 	image: autoDraw = True
+168.2923 	DATA 	Keypress: l
+168.3170 	EXP 	text_9: autoDraw = False
+168.3170 	EXP 	text_10: autoDraw = False
+168.3170 	EXP 	image: autoDraw = False
+168.3170 	EXP 	text_28: text = ''
+168.3170 	EXP 	text_31: text = 'A = \nBlack'
+168.3170 	EXP 	text_32: text = 'L = \nWhite'
+168.3170 	EXP 	text_28: autoDraw = True
+168.3170 	EXP 	text_31: autoDraw = True
+168.3170 	EXP 	text_32: autoDraw = True
+169.3012 	EXP 	New trial (rep=0, index=9): {u'TrialImages': u'black_5.jpg', u'CorrAns': u'a'}
+169.3167 	EXP 	text_28: autoDraw = False
+169.3167 	EXP 	text_31: autoDraw = False
+169.3167 	EXP 	text_32: autoDraw = False
+169.3167 	EXP 	text_28: autoDraw = False
+169.3167 	EXP 	text_31: autoDraw = False
+169.3167 	EXP 	text_32: autoDraw = False
+169.3167 	EXP 	text_9: text = 'A = \nBlack'
+169.3167 	EXP 	text_10: text = 'L = \nWhite'
+169.3167 	EXP 	image: image = u'stimuli/black_5.jpg'
+169.3167 	EXP 	text_9: autoDraw = True
+169.3167 	EXP 	text_10: autoDraw = True
+169.3167 	EXP 	image: autoDraw = True
+169.9903 	DATA 	Keypress: a
+170.0000 	EXP 	text_9: autoDraw = False
+170.0000 	EXP 	text_10: autoDraw = False
+170.0000 	EXP 	image: autoDraw = False
+170.0000 	EXP 	text_28: text = ''
+170.0000 	EXP 	text_31: text = 'A = \nBlack'
+170.0000 	EXP 	text_32: text = 'L = \nWhite'
+170.0000 	EXP 	text_28: autoDraw = True
+170.0000 	EXP 	text_31: autoDraw = True
+170.0000 	EXP 	text_32: autoDraw = True
+171.0127 	EXP 	text_28: autoDraw = False
+171.0127 	EXP 	text_31: autoDraw = False
+171.0127 	EXP 	text_32: autoDraw = False
+171.0127 	EXP 	text_28: autoDraw = False
+171.0127 	EXP 	text_31: autoDraw = False
+171.0127 	EXP 	text_32: autoDraw = False
+171.0127 	EXP 	text_12: text = 'A = \nBlack or \nPositive'
+171.0127 	EXP 	text_13: text = 'L = \nWhite or \nNegative'
+171.0127 	EXP 	text_11: autoDraw = True
+171.0127 	EXP 	text_12: autoDraw = True
+171.0127 	EXP 	text_13: autoDraw = True
+172.8700 	DATA 	Keypress: space
+172.8772 	EXP 	Imported incong_test.xlsx as conditions, 20 conditions, 2 params
+172.8776 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+172.8785 	EXP 	New trial (rep=0, index=0): {u'TrialImages': u'black_1.jpg', u'CorrAns': u'a'}
+172.8991 	EXP 	text_11: autoDraw = False
+172.8991 	EXP 	text_12: autoDraw = False
+172.8991 	EXP 	text_13: autoDraw = False
+172.8991 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+172.8991 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+172.8991 	EXP 	image_2: image = u'stimuli/black_1.jpg'
+172.8991 	EXP 	text_14: autoDraw = True
+172.8991 	EXP 	text_15: autoDraw = True
+172.8991 	EXP 	image_2: autoDraw = True
+175.1399 	DATA 	Keypress: a
+175.1628 	EXP 	text_14: autoDraw = False
+175.1628 	EXP 	text_15: autoDraw = False
+175.1628 	EXP 	image_2: autoDraw = False
+175.1628 	EXP 	text_33: text = ''
+175.1628 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+175.1628 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+175.1628 	EXP 	text_33: autoDraw = True
+175.1628 	EXP 	text_34: autoDraw = True
+175.1628 	EXP 	text_35: autoDraw = True
+176.1310 	EXP 	New trial (rep=0, index=1): {u'TrialImages': u'white_4.jpg', u'CorrAns': u'l'}
+176.1463 	EXP 	text_33: autoDraw = False
+176.1463 	EXP 	text_34: autoDraw = False
+176.1463 	EXP 	text_35: autoDraw = False
+176.1463 	EXP 	text_33: autoDraw = False
+176.1463 	EXP 	text_34: autoDraw = False
+176.1463 	EXP 	text_35: autoDraw = False
+176.1463 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+176.1463 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+176.1463 	EXP 	image_2: image = u'stimuli/white_4.jpg'
+176.1463 	EXP 	text_14: autoDraw = True
+176.1463 	EXP 	text_15: autoDraw = True
+176.1463 	EXP 	image_2: autoDraw = True
+177.2726 	DATA 	Keypress: l
+177.2822 	EXP 	text_14: autoDraw = False
+177.2822 	EXP 	text_15: autoDraw = False
+177.2822 	EXP 	image_2: autoDraw = False
+177.2822 	EXP 	text_33: text = ''
+177.2822 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+177.2822 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+177.2822 	EXP 	text_33: autoDraw = True
+177.2822 	EXP 	text_34: autoDraw = True
+177.2822 	EXP 	text_35: autoDraw = True
+178.2675 	EXP 	New trial (rep=0, index=2): {u'TrialImages': u'Joy.jpg', u'CorrAns': u'a'}
+178.2825 	EXP 	text_33: autoDraw = False
+178.2825 	EXP 	text_34: autoDraw = False
+178.2825 	EXP 	text_35: autoDraw = False
+178.2825 	EXP 	text_33: autoDraw = False
+178.2825 	EXP 	text_34: autoDraw = False
+178.2825 	EXP 	text_35: autoDraw = False
+178.2825 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+178.2825 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+178.2825 	EXP 	image_2: image = u'stimuli/Joy.jpg'
+178.2825 	EXP 	text_14: autoDraw = True
+178.2825 	EXP 	text_15: autoDraw = True
+178.2825 	EXP 	image_2: autoDraw = True
+179.7892 	DATA 	Keypress: a
+179.7990 	EXP 	text_14: autoDraw = False
+179.7990 	EXP 	text_15: autoDraw = False
+179.7990 	EXP 	image_2: autoDraw = False
+179.7990 	EXP 	text_33: text = ''
+179.7990 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+179.7990 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+179.7990 	EXP 	text_33: autoDraw = True
+179.7990 	EXP 	text_34: autoDraw = True
+179.7990 	EXP 	text_35: autoDraw = True
+180.7839 	EXP 	New trial (rep=0, index=3): {u'TrialImages': u'Nasty.jpg', u'CorrAns': u'l'}
+180.7988 	EXP 	text_33: autoDraw = False
+180.7988 	EXP 	text_34: autoDraw = False
+180.7988 	EXP 	text_35: autoDraw = False
+180.7988 	EXP 	text_33: autoDraw = False
+180.7988 	EXP 	text_34: autoDraw = False
+180.7988 	EXP 	text_35: autoDraw = False
+180.7988 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+180.7988 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+180.7988 	EXP 	image_2: image = u'stimuli/Nasty.jpg'
+180.7988 	EXP 	text_14: autoDraw = True
+180.7988 	EXP 	text_15: autoDraw = True
+180.7988 	EXP 	image_2: autoDraw = True
+181.7879 	DATA 	Keypress: l
+181.7981 	EXP 	text_14: autoDraw = False
+181.7981 	EXP 	text_15: autoDraw = False
+181.7981 	EXP 	image_2: autoDraw = False
+181.7981 	EXP 	text_33: text = ''
+181.7981 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+181.7981 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+181.7981 	EXP 	text_33: autoDraw = True
+181.7981 	EXP 	text_34: autoDraw = True
+181.7981 	EXP 	text_35: autoDraw = True
+182.7826 	EXP 	New trial (rep=0, index=4): {u'TrialImages': u'Good.jpg', u'CorrAns': u'a'}
+182.7983 	EXP 	text_33: autoDraw = False
+182.7983 	EXP 	text_34: autoDraw = False
+182.7983 	EXP 	text_35: autoDraw = False
+182.7983 	EXP 	text_33: autoDraw = False
+182.7983 	EXP 	text_34: autoDraw = False
+182.7983 	EXP 	text_35: autoDraw = False
+182.7983 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+182.7983 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+182.7983 	EXP 	image_2: image = u'stimuli/Good.jpg'
+182.7983 	EXP 	text_14: autoDraw = True
+182.7983 	EXP 	text_15: autoDraw = True
+182.7983 	EXP 	image_2: autoDraw = True
+185.5343 	DATA 	Keypress: a
+185.5448 	EXP 	text_14: autoDraw = False
+185.5448 	EXP 	text_15: autoDraw = False
+185.5448 	EXP 	image_2: autoDraw = False
+185.5448 	EXP 	text_33: text = ''
+185.5448 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+185.5448 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+185.5448 	EXP 	text_33: autoDraw = True
+185.5448 	EXP 	text_34: autoDraw = True
+185.5448 	EXP 	text_35: autoDraw = True
+186.5288 	EXP 	New trial (rep=0, index=5): {u'TrialImages': u'white_2.jpg', u'CorrAns': u'l'}
+186.5452 	EXP 	text_33: autoDraw = False
+186.5452 	EXP 	text_34: autoDraw = False
+186.5452 	EXP 	text_35: autoDraw = False
+186.5452 	EXP 	text_33: autoDraw = False
+186.5452 	EXP 	text_34: autoDraw = False
+186.5452 	EXP 	text_35: autoDraw = False
+186.5452 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+186.5452 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+186.5452 	EXP 	image_2: image = u'stimuli/white_2.jpg'
+186.5452 	EXP 	text_14: autoDraw = True
+186.5452 	EXP 	text_15: autoDraw = True
+186.5452 	EXP 	image_2: autoDraw = True
+187.5546 	DATA 	Keypress: l
+187.5641 	EXP 	text_14: autoDraw = False
+187.5641 	EXP 	text_15: autoDraw = False
+187.5641 	EXP 	image_2: autoDraw = False
+187.5641 	EXP 	text_33: text = ''
+187.5641 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+187.5641 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+187.5641 	EXP 	text_33: autoDraw = True
+187.5641 	EXP 	text_34: autoDraw = True
+187.5641 	EXP 	text_35: autoDraw = True
+188.5491 	EXP 	New trial (rep=0, index=6): {u'TrialImages': u'Happy.jpg', u'CorrAns': u'a'}
+188.5644 	EXP 	text_33: autoDraw = False
+188.5644 	EXP 	text_34: autoDraw = False
+188.5644 	EXP 	text_35: autoDraw = False
+188.5644 	EXP 	text_33: autoDraw = False
+188.5644 	EXP 	text_34: autoDraw = False
+188.5644 	EXP 	text_35: autoDraw = False
+188.5644 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+188.5644 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+188.5644 	EXP 	image_2: image = u'stimuli/Happy.jpg'
+188.5644 	EXP 	text_14: autoDraw = True
+188.5644 	EXP 	text_15: autoDraw = True
+188.5644 	EXP 	image_2: autoDraw = True
+191.3357 	DATA 	Keypress: a
+191.3475 	EXP 	text_14: autoDraw = False
+191.3475 	EXP 	text_15: autoDraw = False
+191.3475 	EXP 	image_2: autoDraw = False
+191.3475 	EXP 	text_33: text = ''
+191.3475 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+191.3475 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+191.3475 	EXP 	text_33: autoDraw = True
+191.3475 	EXP 	text_34: autoDraw = True
+191.3475 	EXP 	text_35: autoDraw = True
+192.3326 	EXP 	New trial (rep=0, index=7): {u'TrialImages': u'Love.jpg', u'CorrAns': u'a'}
+192.3473 	EXP 	text_33: autoDraw = False
+192.3473 	EXP 	text_34: autoDraw = False
+192.3473 	EXP 	text_35: autoDraw = False
+192.3473 	EXP 	text_33: autoDraw = False
+192.3473 	EXP 	text_34: autoDraw = False
+192.3473 	EXP 	text_35: autoDraw = False
+192.3473 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+192.3473 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+192.3473 	EXP 	image_2: image = u'stimuli/Love.jpg'
+192.3473 	EXP 	text_14: autoDraw = True
+192.3473 	EXP 	text_15: autoDraw = True
+192.3473 	EXP 	image_2: autoDraw = True
+193.1705 	DATA 	Keypress: a
+193.1813 	EXP 	text_14: autoDraw = False
+193.1813 	EXP 	text_15: autoDraw = False
+193.1813 	EXP 	image_2: autoDraw = False
+193.1813 	EXP 	text_33: text = ''
+193.1813 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+193.1813 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+193.1813 	EXP 	text_33: autoDraw = True
+193.1813 	EXP 	text_34: autoDraw = True
+193.1813 	EXP 	text_35: autoDraw = True
+194.1655 	EXP 	New trial (rep=0, index=8): {u'TrialImages': u'black_5.jpg', u'CorrAns': u'a'}
+194.1812 	EXP 	text_33: autoDraw = False
+194.1812 	EXP 	text_34: autoDraw = False
+194.1812 	EXP 	text_35: autoDraw = False
+194.1812 	EXP 	text_33: autoDraw = False
+194.1812 	EXP 	text_34: autoDraw = False
+194.1812 	EXP 	text_35: autoDraw = False
+194.1812 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+194.1812 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+194.1812 	EXP 	image_2: image = u'stimuli/black_5.jpg'
+194.1812 	EXP 	text_14: autoDraw = True
+194.1812 	EXP 	text_15: autoDraw = True
+194.1812 	EXP 	image_2: autoDraw = True
+195.2381 	DATA 	Keypress: l
+195.2623 	EXP 	text_14: autoDraw = False
+195.2623 	EXP 	text_15: autoDraw = False
+195.2623 	EXP 	image_2: autoDraw = False
+195.2623 	EXP 	text_33: text = 'oops'
+195.2623 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+195.2623 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+195.2623 	EXP 	text_33: autoDraw = True
+195.2623 	EXP 	text_34: autoDraw = True
+195.2623 	EXP 	text_35: autoDraw = True
+196.2325 	EXP 	New trial (rep=0, index=9): {u'TrialImages': u'black_3.jpg', u'CorrAns': u'a'}
+196.2482 	EXP 	text_33: autoDraw = False
+196.2482 	EXP 	text_34: autoDraw = False
+196.2482 	EXP 	text_35: autoDraw = False
+196.2482 	EXP 	text_33: autoDraw = False
+196.2482 	EXP 	text_34: autoDraw = False
+196.2482 	EXP 	text_35: autoDraw = False
+196.2482 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+196.2482 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+196.2482 	EXP 	image_2: image = u'stimuli/black_3.jpg'
+196.2482 	EXP 	text_14: autoDraw = True
+196.2482 	EXP 	text_15: autoDraw = True
+196.2482 	EXP 	image_2: autoDraw = True
+197.2374 	DATA 	Keypress: a
+197.2473 	EXP 	text_14: autoDraw = False
+197.2473 	EXP 	text_15: autoDraw = False
+197.2473 	EXP 	image_2: autoDraw = False
+197.2473 	EXP 	text_33: text = ''
+197.2473 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+197.2473 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+197.2473 	EXP 	text_33: autoDraw = True
+197.2473 	EXP 	text_34: autoDraw = True
+197.2473 	EXP 	text_35: autoDraw = True
+198.2319 	EXP 	New trial (rep=0, index=10): {u'TrialImages': u'black_2.jpg', u'CorrAns': u'a'}
+198.2475 	EXP 	text_33: autoDraw = False
+198.2475 	EXP 	text_34: autoDraw = False
+198.2475 	EXP 	text_35: autoDraw = False
+198.2475 	EXP 	text_33: autoDraw = False
+198.2475 	EXP 	text_34: autoDraw = False
+198.2475 	EXP 	text_35: autoDraw = False
+198.2475 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+198.2475 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+198.2475 	EXP 	image_2: image = u'stimuli/black_2.jpg'
+198.2475 	EXP 	text_14: autoDraw = True
+198.2475 	EXP 	text_15: autoDraw = True
+198.2475 	EXP 	image_2: autoDraw = True
+198.9367 	DATA 	Keypress: a
+198.9649 	EXP 	text_14: autoDraw = False
+198.9649 	EXP 	text_15: autoDraw = False
+198.9649 	EXP 	image_2: autoDraw = False
+198.9649 	EXP 	text_33: text = ''
+198.9649 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+198.9649 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+198.9649 	EXP 	text_33: autoDraw = True
+198.9649 	EXP 	text_34: autoDraw = True
+198.9649 	EXP 	text_35: autoDraw = True
+199.9485 	EXP 	New trial (rep=0, index=11): {u'TrialImages': u'white_3.jpg', u'CorrAns': u'l'}
+199.9646 	EXP 	text_33: autoDraw = False
+199.9646 	EXP 	text_34: autoDraw = False
+199.9646 	EXP 	text_35: autoDraw = False
+199.9646 	EXP 	text_33: autoDraw = False
+199.9646 	EXP 	text_34: autoDraw = False
+199.9646 	EXP 	text_35: autoDraw = False
+199.9646 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+199.9646 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+199.9646 	EXP 	image_2: image = u'stimuli/white_3.jpg'
+199.9646 	EXP 	text_14: autoDraw = True
+199.9646 	EXP 	text_15: autoDraw = True
+199.9646 	EXP 	image_2: autoDraw = True
+200.7349 	DATA 	Keypress: l
+200.7472 	EXP 	text_14: autoDraw = False
+200.7472 	EXP 	text_15: autoDraw = False
+200.7472 	EXP 	image_2: autoDraw = False
+200.7472 	EXP 	text_33: text = ''
+200.7472 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+200.7472 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+200.7472 	EXP 	text_33: autoDraw = True
+200.7472 	EXP 	text_34: autoDraw = True
+200.7472 	EXP 	text_35: autoDraw = True
+201.7314 	EXP 	New trial (rep=0, index=12): {u'TrialImages': u'white_5.jpg', u'CorrAns': u'l'}
+201.7476 	EXP 	text_33: autoDraw = False
+201.7476 	EXP 	text_34: autoDraw = False
+201.7476 	EXP 	text_35: autoDraw = False
+201.7476 	EXP 	text_33: autoDraw = False
+201.7476 	EXP 	text_34: autoDraw = False
+201.7476 	EXP 	text_35: autoDraw = False
+201.7476 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+201.7476 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+201.7476 	EXP 	image_2: image = u'stimuli/white_5.jpg'
+201.7476 	EXP 	text_14: autoDraw = True
+201.7476 	EXP 	text_15: autoDraw = True
+201.7476 	EXP 	image_2: autoDraw = True
+202.4202 	DATA 	Keypress: l
+202.4297 	EXP 	text_14: autoDraw = False
+202.4297 	EXP 	text_15: autoDraw = False
+202.4297 	EXP 	image_2: autoDraw = False
+202.4297 	EXP 	text_33: text = ''
+202.4297 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+202.4297 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+202.4297 	EXP 	text_33: autoDraw = True
+202.4297 	EXP 	text_34: autoDraw = True
+202.4297 	EXP 	text_35: autoDraw = True
+203.4149 	EXP 	New trial (rep=0, index=13): {u'TrialImages': u'Bad.jpg', u'CorrAns': u'l'}
+203.4307 	EXP 	text_33: autoDraw = False
+203.4307 	EXP 	text_34: autoDraw = False
+203.4307 	EXP 	text_35: autoDraw = False
+203.4307 	EXP 	text_33: autoDraw = False
+203.4307 	EXP 	text_34: autoDraw = False
+203.4307 	EXP 	text_35: autoDraw = False
+203.4307 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+203.4307 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+203.4307 	EXP 	image_2: image = u'stimuli/Bad.jpg'
+203.4307 	EXP 	text_14: autoDraw = True
+203.4307 	EXP 	text_15: autoDraw = True
+203.4307 	EXP 	image_2: autoDraw = True
+204.4692 	DATA 	Keypress: l
+204.4977 	EXP 	text_14: autoDraw = False
+204.4977 	EXP 	text_15: autoDraw = False
+204.4977 	EXP 	image_2: autoDraw = False
+204.4977 	EXP 	text_33: text = ''
+204.4977 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+204.4977 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+204.4977 	EXP 	text_33: autoDraw = True
+204.4977 	EXP 	text_34: autoDraw = True
+204.4977 	EXP 	text_35: autoDraw = True
+205.4819 	EXP 	New trial (rep=0, index=14): {u'TrialImages': u'Hurt.jpg', u'CorrAns': u'l'}
+205.4978 	EXP 	text_33: autoDraw = False
+205.4978 	EXP 	text_34: autoDraw = False
+205.4978 	EXP 	text_35: autoDraw = False
+205.4978 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+205.4978 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+205.4978 	EXP 	image_2: image = u'stimuli/Hurt.jpg'
+205.4978 	EXP 	text_14: autoDraw = True
+205.4978 	EXP 	text_15: autoDraw = True
+205.4978 	EXP 	image_2: autoDraw = True
+206.9037 	DATA 	Keypress: l
+206.9136 	EXP 	text_14: autoDraw = False
+206.9136 	EXP 	text_15: autoDraw = False
+206.9136 	EXP 	image_2: autoDraw = False
+206.9136 	EXP 	text_33: text = ''
+206.9136 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+206.9136 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+206.9136 	EXP 	text_33: autoDraw = True
+206.9136 	EXP 	text_34: autoDraw = True
+206.9136 	EXP 	text_35: autoDraw = True
+207.8981 	EXP 	New trial (rep=0, index=15): {u'TrialImages': u'Agony.jpg', u'CorrAns': u'l'}
+207.9136 	EXP 	text_33: autoDraw = False
+207.9136 	EXP 	text_34: autoDraw = False
+207.9136 	EXP 	text_35: autoDraw = False
+207.9136 	EXP 	text_33: autoDraw = False
+207.9136 	EXP 	text_34: autoDraw = False
+207.9136 	EXP 	text_35: autoDraw = False
+207.9136 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+207.9136 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+207.9136 	EXP 	image_2: image = u'stimuli/Agony.jpg'
+207.9136 	EXP 	text_14: autoDraw = True
+207.9136 	EXP 	text_15: autoDraw = True
+207.9136 	EXP 	image_2: autoDraw = True
+208.4512 	DATA 	Keypress: l
+208.4638 	EXP 	text_14: autoDraw = False
+208.4638 	EXP 	text_15: autoDraw = False
+208.4638 	EXP 	image_2: autoDraw = False
+208.4638 	EXP 	text_33: text = ''
+208.4638 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+208.4638 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+208.4638 	EXP 	text_33: autoDraw = True
+208.4638 	EXP 	text_34: autoDraw = True
+208.4638 	EXP 	text_35: autoDraw = True
+209.4484 	EXP 	New trial (rep=0, index=16): {u'TrialImages': u'white_1.jpg', u'CorrAns': u'l'}
+209.4636 	EXP 	text_33: autoDraw = False
+209.4636 	EXP 	text_34: autoDraw = False
+209.4636 	EXP 	text_35: autoDraw = False
+209.4636 	EXP 	text_33: autoDraw = False
+209.4636 	EXP 	text_34: autoDraw = False
+209.4636 	EXP 	text_35: autoDraw = False
+209.4636 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+209.4636 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+209.4636 	EXP 	image_2: image = u'stimuli/white_1.jpg'
+209.4636 	EXP 	text_14: autoDraw = True
+209.4636 	EXP 	text_15: autoDraw = True
+209.4636 	EXP 	image_2: autoDraw = True
+210.3209 	DATA 	Keypress: l
+210.3469 	EXP 	text_14: autoDraw = False
+210.3469 	EXP 	text_15: autoDraw = False
+210.3469 	EXP 	image_2: autoDraw = False
+210.3469 	EXP 	text_33: text = ''
+210.3469 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+210.3469 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+210.3469 	EXP 	text_33: autoDraw = True
+210.3469 	EXP 	text_34: autoDraw = True
+210.3469 	EXP 	text_35: autoDraw = True
+211.3313 	EXP 	New trial (rep=0, index=17): {u'TrialImages': u'black_4.jpg', u'CorrAns': u'a'}
+211.3470 	EXP 	text_33: autoDraw = False
+211.3470 	EXP 	text_34: autoDraw = False
+211.3470 	EXP 	text_35: autoDraw = False
+211.3470 	EXP 	text_33: autoDraw = False
+211.3470 	EXP 	text_34: autoDraw = False
+211.3470 	EXP 	text_35: autoDraw = False
+211.3470 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+211.3470 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+211.3470 	EXP 	image_2: image = u'stimuli/black_4.jpg'
+211.3470 	EXP 	text_14: autoDraw = True
+211.3470 	EXP 	text_15: autoDraw = True
+211.3470 	EXP 	image_2: autoDraw = True
+212.9192 	DATA 	Keypress: a
+212.9297 	EXP 	text_14: autoDraw = False
+212.9297 	EXP 	text_15: autoDraw = False
+212.9297 	EXP 	image_2: autoDraw = False
+212.9297 	EXP 	text_33: text = ''
+212.9297 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+212.9297 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+212.9297 	EXP 	text_33: autoDraw = True
+212.9297 	EXP 	text_34: autoDraw = True
+212.9297 	EXP 	text_35: autoDraw = True
+213.9145 	EXP 	New trial (rep=0, index=18): {u'TrialImages': u'Evil.jpg', u'CorrAns': u'l'}
+213.9301 	EXP 	text_33: autoDraw = False
+213.9301 	EXP 	text_34: autoDraw = False
+213.9301 	EXP 	text_35: autoDraw = False
+213.9301 	EXP 	text_33: autoDraw = False
+213.9301 	EXP 	text_34: autoDraw = False
+213.9301 	EXP 	text_35: autoDraw = False
+213.9301 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+213.9301 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+213.9301 	EXP 	image_2: image = u'stimuli/Evil.jpg'
+213.9301 	EXP 	text_14: autoDraw = True
+213.9301 	EXP 	text_15: autoDraw = True
+213.9301 	EXP 	image_2: autoDraw = True
+214.8859 	DATA 	Keypress: a
+214.9122 	EXP 	text_14: autoDraw = False
+214.9122 	EXP 	text_15: autoDraw = False
+214.9122 	EXP 	image_2: autoDraw = False
+214.9122 	EXP 	text_33: text = 'oops'
+214.9122 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+214.9122 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+214.9122 	EXP 	text_33: autoDraw = True
+214.9122 	EXP 	text_34: autoDraw = True
+214.9122 	EXP 	text_35: autoDraw = True
+215.8820 	EXP 	New trial (rep=0, index=19): {u'TrialImages': u'Pleasure.jpg', u'CorrAns': u'a'}
+215.8965 	EXP 	text_33: autoDraw = False
+215.8965 	EXP 	text_34: autoDraw = False
+215.8965 	EXP 	text_35: autoDraw = False
+215.8965 	EXP 	text_33: autoDraw = False
+215.8965 	EXP 	text_34: autoDraw = False
+215.8965 	EXP 	text_35: autoDraw = False
+215.8965 	EXP 	text_14: text = 'A = \nBlack or \nPositive'
+215.8965 	EXP 	text_15: text = 'L = \nWhite or \nNegative'
+215.8965 	EXP 	image_2: image = u'stimuli/Pleasure.jpg'
+215.8965 	EXP 	text_14: autoDraw = True
+215.8965 	EXP 	text_15: autoDraw = True
+215.8965 	EXP 	image_2: autoDraw = True
+216.6679 	DATA 	Keypress: a
+216.6801 	EXP 	text_14: autoDraw = False
+216.6801 	EXP 	text_15: autoDraw = False
+216.6801 	EXP 	image_2: autoDraw = False
+216.6801 	EXP 	text_33: text = ''
+216.6801 	EXP 	text_34: text = 'A = \nBlack or \nPositive'
+216.6801 	EXP 	text_35: text = 'L = \nWhite or \nNegative'
+216.6801 	EXP 	text_33: autoDraw = True
+216.6801 	EXP 	text_34: autoDraw = True
+216.6801 	EXP 	text_35: autoDraw = True
+217.6800 	EXP 	text_33: autoDraw = False
+217.6800 	EXP 	text_34: autoDraw = False
+217.6800 	EXP 	text_35: autoDraw = False
+217.6800 	EXP 	text_33: autoDraw = False
+217.6800 	EXP 	text_34: autoDraw = False
+217.6800 	EXP 	text_35: autoDraw = False
+217.6800 	EXP 	text_26: autoDraw = True
+219.1026 	DATA 	Keypress: space
+220.4359 	DATA 	Keypress: space
+220.7852 	DATA 	Keypress: return
+221.5527 	DATA 	Keypress: space
+222.8341 	DATA 	Keypress: escape
